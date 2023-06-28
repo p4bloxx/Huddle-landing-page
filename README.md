@@ -26,7 +26,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-html-css-custom-properties-flexbox-VFECbe_vDQ](https://www.frontendmentor.io/solutions/huddle-landing-page-with-html-css-custom-properties-flexbox-VFECbe_vDQ)
 - Live Site URL: [https://p4bloxx.github.io/Huddle-landing-page/](https://p4bloxx.github.io/Huddle-landing-page/)
 
 ## My process
